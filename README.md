@@ -663,6 +663,9 @@ $𝒂_𝟎$ $𝒕_𝒏$ + $𝒂_𝟏$ $𝒕_{𝒏−𝟏}$ + ⋯ + $𝒂_𝒌$ $
 
 <h3>𝑻(𝒏) = 𝟑𝑻 ( $\frac{𝒏}{𝟐}$ ) , 𝑻(𝟏) = 𝟏 → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/A.3.Guess-and-verify%20method-Example-3.pdf"> 𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟑 </a> </h3>
 
+<h3>𝑻(𝒏) = $\sqrt{𝒏}$ 𝑻( $\sqrt{𝒏}$ ) + 𝒏  → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/A.4.Guess-and-verify%20method-Example-4.pdf"> 𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟒 </a> </h3>
+
+
 </ul>
 
 </ul>
