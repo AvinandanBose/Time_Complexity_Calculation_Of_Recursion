@@ -657,7 +657,9 @@ $𝒂_𝟎$ $𝒕_𝒏$ + $𝒂_𝟏$ $𝒕_{𝒏−𝟏}$ + ⋯ + $𝒂_𝒌$ $
 
 <ul>
 
-<h3>   ${𝒕_𝒏}$ = $𝒕_{𝒏-1}$ + 𝟐 → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/A.1.Guess-and-verify%20method-Example-1.pdf"> 𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟏 </a> </h3>
+<h3>   ${𝒕_𝒏}$ = $𝒕_{𝒏-1}$ + 𝟐 ; $𝒕_𝟎$ = 𝟏 → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/A.1.Guess-and-verify%20method-Example-1.pdf"> 𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟏 </a> </h3>
+
+<h3>   ${𝒕_𝒏}$ = $𝒕_{𝒏-𝟏}$ +  $𝒏^𝟐$ ; $𝒕_𝟏$ = 𝟏 → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/A.2.Guess-and-verify%20method-Example-2.pdf"> 𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟐 </a> </h3>
 
 </ul>
 
