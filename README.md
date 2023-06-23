@@ -852,7 +852,7 @@ $𝒂_𝟎$ $𝒕_𝒏$ + $𝒂_𝟏$ $𝒕_{𝒏−𝟏}$ + ⋯ + $𝒂_𝒌$ $
 <h3> 𝑻(𝒏) = 𝟐𝑻 ( $\frac{𝒏}{𝟐}$ ) + 𝒏 → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/C.1.Recurrence-Tree%20Method(%20Example%201).pdf">  𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟏 (𝑴𝒆𝒓𝒈𝒆 𝑺𝒐𝒓𝒕)</a></h3>
 
 <h3> $𝒕_𝒏$ = $𝒕_{𝒏-𝟏}$ + 𝒂 ,𝒇𝒐𝒓 𝒏 > 𝟏 𝒂𝒏𝒅 $𝒕_𝒏$ = 𝟏 ,𝒇𝒐𝒓 𝒏 =  𝟏 . 𝑭𝒊𝒏𝒅 𝒂𝒔𝒚𝒎𝒑𝒕𝒐𝒕𝒊𝒄 𝒄𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒓𝒆𝒆 𝒇𝒐𝒓 𝒂 = 𝟏 𝒂𝒏𝒅 𝒂 = 𝒏 →
- <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/C.2.Recurrence-Tree%20Method(%20Example%202).pdf"> → 𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟐 </a></h3>
+ <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/C.2.Recurrence-Tree%20Method(%20Example%202).pdf">  𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟐 </a></h3>
 
 <h3>𝑨𝒏𝒐𝒕𝒉𝒆𝒓 𝒆𝒙𝒂𝒎𝒑𝒍𝒆.... </h3>
 
