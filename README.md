@@ -854,7 +854,7 @@ $𝒂_𝟎$ $𝒕_𝒏$ + $𝒂_𝟏$ $𝒕_{𝒏−𝟏}$ + ⋯ + $𝒂_𝒌$ $
 <h3> $𝒕_𝒏$ = $𝒕_{𝒏-𝟏}$ + 𝒂 ,𝒇𝒐𝒓 𝒏 > 𝟏 𝒂𝒏𝒅 $𝒕_𝒏$ = 𝟏 ,𝒇𝒐𝒓 𝒏 =  𝟏 . 𝑭𝒊𝒏𝒅 𝒂𝒔𝒚𝒎𝒑𝒕𝒐𝒕𝒊𝒄 𝒄𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒓𝒆𝒆 𝒇𝒐𝒓 𝒂 = 𝟏 𝒂𝒏𝒅 𝒂 = 𝒏 →
  <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/C.2.Recurrence-Tree%20Method(%20Example%202).pdf">  𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟐 </a></h3>
 
-<h3> $𝒕_𝒏$ = 𝟖𝑻 ( $\frac{𝒏}{𝟐}$) , 𝒇𝒐𝒓 𝒏 > 𝟏 𝒂𝒏𝒅 $𝒕_𝒏$ = 𝟏 ,𝒇𝒐𝒓 𝒏 =  𝟏 . → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/C.3.Recurrence-Tree%20Method(%20Example%203).pdf">   𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟑 </a></h3> </h3>
+<h3> $𝒕_𝒏$ = 𝟖𝑻 ( $\frac{𝒏}{𝟐}$) , 𝒇𝒐𝒓 𝒏 > 𝟏 𝒂𝒏𝒅 $𝒕_𝒏$ = 𝟏 ,𝒇𝒐𝒓 𝒏 =  𝟏 . (𝑨𝒏 𝒂𝒍𝒕𝒆𝒓𝒏𝒂𝒕𝒊𝒗𝒆 𝒘𝒂𝒚 𝒂𝒍𝒔𝒐 𝒅𝒊𝒔𝒄𝒖𝒔𝒔𝒆𝒅)→ <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/C.3.Recurrence-Tree%20Method(%20Example%203).pdf">   𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟑 </a></h3> </h3>
 
 </ul>
 
