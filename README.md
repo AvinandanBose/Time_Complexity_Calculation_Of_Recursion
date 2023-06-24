@@ -893,6 +893,7 @@ $𝒂_𝟎$ $𝒕_𝒏$ + $𝒂_𝟏$ $𝒕_{𝒏−𝟏}$ + ⋯ + $𝒂_𝒌$ $
 
 <h3> $𝒕_𝒏$ = $𝒕_{𝒏−𝟏}$ + 𝟒 𝒘𝒊𝒕𝒉 $𝒕_𝟏$ = 𝟐 → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/D.1.Difference%20Method(Example%201).pdf">  𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟏 </a></h3>
 
+<h3> $𝒕_𝒏$ = $𝒕_{𝒏−𝟏}$ + 𝟔𝒏, 𝒏 ≥ 𝟏 𝒂𝒏𝒅 $𝒕_𝟏$ = 𝟔 , 𝒂𝒏𝒅 𝒇𝒊𝒏𝒅 𝒕𝒉𝒆 𝒕𝒆𝒓𝒎 $𝒕_{𝟒𝟎}$ → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/D.2.Difference%20Method(Example%202).pdf">  𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟐 </a></h3>
 
 </ul>
 
