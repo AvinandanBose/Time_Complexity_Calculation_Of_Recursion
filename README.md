@@ -1022,6 +1022,24 @@ $𝒂_𝟎$ $𝒕_𝒏$ + $𝒂_𝟏$ $𝒕_{𝒏−𝟏}$ + ⋯ + $𝒂_𝒌$ $
 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒊𝒔𝒕𝒊𝒄 𝒆𝒒𝒖𝒂𝒕𝒊𝒐𝒏.</h3>
 
 
+<h3>𝑻𝒉𝒆𝒐𝒓𝒆𝒎 → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/E.2.Polynomial%20Reduction-Solving%20Homogeneous%20Equations-Theorem.pdf">𝑻𝒉𝒆𝒐𝒓𝒆𝒎 𝑩𝒂𝒔𝒆𝒅 𝒐𝒏 𝑺𝒐𝒍𝒗𝒊𝒏𝒈 𝑯𝒐𝒎𝒐𝒈𝒆𝒏𝒆𝒐𝒖𝒔
+𝑬𝒒𝒖𝒂𝒕𝒊𝒐𝒏𝒔 − 𝑷𝒐𝒍𝒚𝒏𝒐𝒎𝒊𝒂𝒍 𝑹𝒆𝒅𝒖𝒄𝒕𝒊𝒐𝒏. </a></h3>
+
+<h3>𝑻𝒉𝒓𝒆𝒆 𝒄𝒂𝒔𝒆𝒔 𝒆𝒙𝒊𝒔𝒕𝒔 𝒇𝒐𝒓 𝒇𝒊𝒏𝒅𝒊𝒏𝒈 𝒕𝒉𝒆 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝒐𝒇 𝒓𝒆𝒄𝒖𝒓𝒓𝒆𝒏𝒄𝒆
+𝒆𝒒𝒖𝒂𝒕𝒊𝒐𝒏𝒔 𝒃𝒂𝒔𝒆𝒅 𝒐𝒏 𝒕𝒉𝒆 𝒓𝒐𝒐𝒕𝒔 𝒐𝒇 𝒕𝒉𝒆 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒊𝒔𝒕𝒊𝒄
+𝒆𝒒𝒖𝒂𝒕𝒊𝒐𝒏, 𝒘𝒉𝒐 𝒂𝒓𝒆 𝒇𝒐𝒍𝒍𝒐𝒘𝒔:</h3>
+
+<ul>
+
+<h3>𝑪𝒂𝒔𝒆 𝟏 → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/E.3.Polynomial%20Reduction-Solving%20Homogeneous%20Equations-Case1.pdf">𝑪𝒂𝒔𝒆 𝟏: −𝒓𝒐𝒐𝒕𝒔 𝒐𝒇 𝒕𝒉𝒆 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒊𝒔𝒕𝒊𝒄 𝒆𝒒𝒖𝒂𝒕𝒊𝒐𝒏 𝒂𝒓𝒆 𝒅𝒊𝒔𝒕𝒊𝒏𝒄𝒕. </a></h3>
+
+<h3>𝑪𝒂𝒔𝒆 𝟐 → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/E.3.Polynomial%20Reduction-Solving%20Homogeneous%20Equations-Case2.pdf">𝑪𝒂𝒔𝒆 𝟐: −𝒓𝒐𝒐𝒕𝒔 𝒐𝒇 𝒕𝒉𝒆 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒊𝒔𝒕𝒊𝒄 𝒆𝒒𝒖𝒂𝒕𝒊𝒐𝒏 𝒂𝒓𝒆 𝒏𝒐𝒕 𝒅𝒊𝒔𝒕𝒊𝒏𝒄𝒕. </a></h3>
+
+<h3>𝑪𝒂𝒔𝒆 𝟑 → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/E.3.Polynomial%20Reduction-Solving%20Homogeneous%20Equations-Case3.pdf">𝑪𝒂𝒔𝒆 𝟑 − 𝒓𝒐𝒐𝒕𝒔 𝒐𝒇 𝒕𝒉𝒆 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒊𝒔𝒕𝒊𝒄 𝒆𝒒𝒖𝒂𝒕𝒊𝒐𝒏 𝒂𝒓𝒆
+𝒅𝒊𝒔𝒕𝒊𝒏𝒄𝒕 𝒃𝒖𝒕 𝒄𝒐𝒎𝒑𝒍𝒆𝒙. </a></h3>
+
+
+</ul>
 
 
 </ul>
