@@ -1044,6 +1044,22 @@ $𝒂_𝟎$ $𝒕_𝒏$ + $𝒂_𝟏$ $𝒕_{𝒏−𝟏}$ + ⋯ + $𝒂_𝒌$ $
 
 </ul>
 
+<h2></h2>
+<h2>𝑬.𝑨.𝑺𝒐𝒍𝒗𝒊𝒏𝒈 𝑯𝒐𝒎𝒐𝒈𝒆𝒏𝒆𝒐𝒖𝒔 𝑬𝒒𝒖𝒂𝒕𝒊𝒐𝒏-𝑬𝒙𝒂𝒎𝒑𝒍𝒆𝒔</h2>
+
+<ul>
+
+<h3> $𝒕_𝒏$ − 𝟑 $𝒕_{𝒏−𝟏}$ + 𝟐 $𝒕_{𝒏−𝟐}$ = 𝟎 𝒇𝒐𝒓 𝒏 > 𝟎 , $𝒕_𝟎$ = 𝟎 , $𝒕_𝟏$ = 𝟏 → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/E.A.Polynomial%20Reduction%20Method-Homogeneous%20Equations-Eg-1.pdf">  𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟏 </a></h3>
+
+<h3> $𝒕_𝒏$ − 𝟏𝟏 $𝒕_{𝒏−𝟏}$ + 𝟑𝟎 $𝒕_{𝒏−𝟐}$ = 𝟎 ; $𝒕_𝟎$ = 𝟎 , $𝒕_𝟏$ = 𝟏 , $𝒕_𝟐$ = 𝟐 → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/E.A.Polynomial%20Reduction%20Method-Homogeneous%20Equations-Eg-2.pdf">  𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟐 </a></h3>
+
+<h3> $𝒕_𝒏$ − 𝟓 $𝒕_{𝒏−𝟏}$ + 𝟖 $𝒕_{𝒏−𝟐}$ − 𝟒 $𝒕_{𝒏−𝟑}$ = 𝟎 𝒇𝒐𝒓 𝒏 > 𝟎 , $𝒕_𝟎$ = 𝟎 , $𝒕_𝟏$ = 𝟏, $𝒕_𝟐$ = 𝟐
+ → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/E.A.Polynomial%20Reduction%20Method-Homogeneous%20Equations-Eg-3.pdf">  𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟐 </a></h3>
+
+
+
+</ul> 
+
 
 
 </ul>
