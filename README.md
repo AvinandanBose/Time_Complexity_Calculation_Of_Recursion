@@ -1107,6 +1107,14 @@ $(𝒓 − 𝒃)^{𝒅+𝟏}$ 𝒃𝒚 𝒊𝒈𝒏𝒐𝒓𝒊𝒏𝒈 𝒕𝒉
 <h2></h2>
 <h2>𝑬.𝑩.𝑺𝒐𝒍𝒗𝒊𝒏𝒈 𝑵𝒐𝒏-𝑯𝒐𝒎𝒐𝒈𝒆𝒏𝒆𝒐𝒖𝒔 𝑬𝒒𝒖𝒂𝒕𝒊𝒐𝒏-𝑬𝒙𝒂𝒎𝒑𝒍𝒆</h2>
 
+<ul>
+
+<h3> $𝒕_𝒏$ − 𝟑 $𝒕_{𝒏−𝟏}$ = 𝒏 − 𝟏 , 𝒇𝒐𝒓 𝒏 = 𝟎, $𝒕_𝟎$ = 𝟎 , $𝒕_𝟏$ = 𝟏 ,  $𝒕_𝟐$ = 𝟐 → 
+<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/E.B.2.Polynomial%20Reduction%20Method-Solving%20Non%20Homogeneous%20Equations-Example.pdf">  𝑬𝒙𝒂𝒎𝒑𝒍𝒆  </a></h3>
+
+ 
+</ul>
+
 
 
 </ul>
