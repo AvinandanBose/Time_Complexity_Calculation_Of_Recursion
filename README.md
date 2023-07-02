@@ -1406,7 +1406,7 @@ $(𝒓 − 𝒃)^{𝒅+𝟏}$ 𝒃𝒚 𝒊𝒈𝒏𝒐𝒓𝒊𝒏𝒈 𝒕𝒉
 
 
 
-<h3>𝟏. 𝑻(𝒏) = 𝟑𝑻 ( $\frac{𝒏}{𝟑}$ ) + 𝒏 →<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.6.Divide-And-Conquer-Akra-Bazzi-Theorem-Example-1.pdf"> 𝑺𝒊𝒎𝒑𝒍𝒊𝒇𝒊𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 -𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟏 </h3>
+<h3>𝟏. 𝑻(𝒏) = 𝟑𝑻 ( $\frac{𝒏}{𝟑}$ ) + 𝒏 →<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.6.Divide-And-Conquer-Akra-Bazzi-Theorem-Example-1.pdf"> 𝑨𝒌𝒓𝒂 -𝑩𝒂𝒛𝒛𝒊 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 -𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟏 </h3>
 
 <h3>𝟐. 𝑻(𝒏) = 𝟖𝑻 ( $\frac{𝒏}{𝟐}$ ) + $𝒏^𝟐$ →<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.7.Divide-And-Conquer-Akra-Bazzi-Theorem-Example-2.pdf"> 𝑨𝒌𝒓𝒂 -𝑩𝒂𝒛𝒛𝒊 𝑻𝒉𝒆𝒐𝒓𝒆𝒎-𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟐 </h3>
 
