@@ -1317,7 +1317,26 @@ $(𝒓 − 𝒃)^{𝒅+𝟏}$ 𝒃𝒚 𝒊𝒈𝒏𝒐𝒓𝒊𝒏𝒈 𝒕𝒉
 
 <h3>𝑪𝒂𝒔𝒆 𝟑: 𝑻(𝒏) ∈ 𝚯( $𝒏^{𝐥𝐨𝐠_𝒃(𝒂)}$ ) 𝒊𝒇 𝒂 > $𝒃^𝒌$</h3>
 
-<h3> → → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.1.Divide-And-Conquer%20Recurrences-Simplified%20MasterTheorem.pdf"> 𝑺𝒊𝒎𝒑𝒍𝒊𝒇𝒊𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 - (𝑽𝒊𝒗𝒊𝒅𝒍𝒚 𝒆𝒙𝒑𝒍𝒂𝒊𝒏𝒆𝒅) 𝑷𝒓𝒐𝒐𝒇 𝑨𝒏𝒅 𝑬𝒙𝒑𝒍𝒂𝒏𝒂𝒕𝒊𝒐𝒏. [**𝑷𝒓𝒐𝒐𝒇 𝑼𝒑𝒅𝒂𝒕𝒆𝒅** 𝒂𝒏𝒅 **𝑨𝒄𝒄𝒖𝒓𝒂𝒕𝒆**] </a>
+<h3> → → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.1.Divide-And-Conquer%20Recurrences-Simplified%20MasterTheorem.pdf"> 𝑺𝒊𝒎𝒑𝒍𝒊𝒇𝒊𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 - (𝑽𝒊𝒗𝒊𝒅𝒍𝒚 𝒆𝒙𝒑𝒍𝒂𝒊𝒏𝒆𝒅) 𝑷𝒓𝒐𝒐𝒇 𝑨𝒏𝒅 𝑬𝒙𝒑𝒍𝒂𝒏𝒂𝒕𝒊𝒐𝒏. [**𝑷𝒓𝒐𝒐𝒇 𝑼𝒑𝒅𝒂𝒕𝒆𝒅** 𝒂𝒏𝒅 **𝑨𝒄𝒄𝒖𝒓𝒂𝒕𝒆**] </a></h3>
+
+<ul>
+
+<h2></h2>
+<h2>𝑬𝒙𝒂𝒎𝒑𝒍𝒆𝒔 𝑩𝒂𝒔𝒆𝒅 𝑶𝒏 𝑺𝒊𝒎𝒑𝒍𝒊𝒇𝒊𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎</h2>
+
+<ul>
+
+<h3>𝟏.<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.2.Divide-And-Conquer-Simplified-Master-Theorem-Example-1.pdf"> 𝑺𝒊𝒎𝒑𝒍𝒊𝒇𝒊𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 -𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟏 </h3>
+
+<h3>𝟐.<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.3.Divide-And-Conquer-Simplified-Master-Theorem-Example-2.pdf"> 𝑺𝒊𝒎𝒑𝒍𝒊𝒇𝒊𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 -𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟐 </h3>
+
+
+
+  
+</ul>
+
+  
+</ul>
 
 </ul>
 
