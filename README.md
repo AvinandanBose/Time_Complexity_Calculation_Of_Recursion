@@ -1326,9 +1326,9 @@ $(𝒓 − 𝒃)^{𝒅+𝟏}$ 𝒃𝒚 𝒊𝒈𝒏𝒐𝒓𝒊𝒏𝒈 𝒕𝒉
 
 <ul>
 
-<h3>𝟏.<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.2.Divide-And-Conquer-Simplified-Master-Theorem-Example-1.pdf"> 𝑺𝒊𝒎𝒑𝒍𝒊𝒇𝒊𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 -𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟏 </h3>
+<h3>𝟏. 𝑻(𝒏) = 𝟖𝑻 ( $\frac{𝒏}{𝟐}$ ) + $𝒏^𝟐$ →<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.2.Divide-And-Conquer-Simplified-Master-Theorem-Example-1.pdf"> 𝑺𝒊𝒎𝒑𝒍𝒊𝒇𝒊𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 -𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟏 </h3>
 
-<h3>𝟐.<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.3.Divide-And-Conquer-Simplified-Master-Theorem-Example-2.pdf"> 𝑺𝒊𝒎𝒑𝒍𝒊𝒇𝒊𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 -𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟐 </h3>
+<h3>𝟐. 𝑻(𝒏) = 𝟐𝑻 ( $\frac{𝒏}{𝟐}$ ) + 𝒏 → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.3.Divide-And-Conquer-Simplified-Master-Theorem-Example-2.pdf"> 𝑺𝒊𝒎𝒑𝒍𝒊𝒇𝒊𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 -𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟐 </h3>
 
 
 
@@ -1371,6 +1371,58 @@ $(𝒓 − 𝒃)^{𝒅+𝟏}$ 𝒃𝒚 𝒊𝒈𝒏𝒐𝒓𝒊𝒏𝒈 𝒕𝒉
 𝒂𝒔 𝒘𝒆𝒍𝒍.</h3>
 
 </ul>
+
+
+<h2></h2>
+<h2>𝑰𝑰𝑰)𝑨𝒌𝒓𝒂 − 𝑩𝒂𝒛𝒛𝒊 𝑻𝒉𝒆𝒐𝒓𝒆𝒎</h2>
+
+<ul>
+
+<h3>𝑰𝒏 𝟏𝟗𝟗𝟖 , 𝒕𝒘𝒐 𝑳𝒆𝒃𝒂𝒏𝒐𝒏 − 𝒃𝒂𝒔𝒆𝒅 𝒓𝒆𝒔𝒆𝒂𝒓𝒄𝒉𝒆𝒓𝒔 𝒑𝒓𝒐𝒗𝒊𝒅𝒆𝒅 𝒕𝒉𝒆
+𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒈𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝒛𝒆𝒅 𝒇𝒐𝒓𝒎 𝒐𝒇 𝒕𝒉𝒆 𝒎𝒂𝒔𝒕𝒆𝒓 𝒕𝒉𝒆𝒐𝒓𝒆𝒎,
+𝒘𝒉𝒊𝒄𝒉 𝒊𝒔 𝒂𝒔 𝒇𝒐𝒍𝒍𝒐𝒘𝒔:</h3>
+
+![Screenshot (861)](https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/assets/38869235/fbee4eda-ee93-438d-a117-b5b5f47daf4a)
+
+<h3>𝑾𝒉𝒊𝒄𝒉 𝒓𝒆𝒔𝒖𝒍𝒕𝒔 𝒊𝒏:</h3>
+
+![Screenshot (863)](https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/assets/38869235/771ebe80-3578-48fa-b625-9faac5760d30)
+
+
+
+<ul>
+  
+<h3> 𝑨𝒌𝒓𝒂 -𝑩𝒂𝒛𝒛𝒊 𝑻𝒉𝒆𝒐𝒓𝒆𝒎-𝑰𝒏 𝑫𝒆𝒕𝒂𝒊𝒍𝒔 → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.5.Divide-And-Conquer-Akra-Bazzi-Theorem.pdf">𝑨𝒌𝒓𝒂 -𝑩𝒂𝒛𝒛𝒊 𝑻𝒉𝒆𝒐𝒓𝒆𝒎</a></h3>
+  
+</ul>
+
+<ul>
+
+
+<h2></h2>
+<h2>𝑬𝒙𝒂𝒎𝒑𝒍𝒆𝒔 𝑩𝒂𝒔𝒆𝒅 𝑶𝒏 𝑨𝒌𝒓𝒂 -𝑩𝒂𝒛𝒛𝒊 𝑻𝒉𝒆𝒐𝒓𝒆𝒎</h2>
+
+<ul>
+
+
+
+<h3>𝟏. 𝑻(𝒏) = 𝟑𝑻 ( $\frac{𝒏}{𝟑}$ ) + 𝒏 →<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.6.Divide-And-Conquer-Akra-Bazzi-Theorem-Example-1.pdf"> 𝑺𝒊𝒎𝒑𝒍𝒊𝒇𝒊𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 -𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟏 </h3>
+
+<h3>𝟐. 𝑻(𝒏) = 𝟖𝑻 ( $\frac{𝒏}{𝟐}$ ) + $𝒏^𝟐$ →<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.7.Divide-And-Conquer-Akra-Bazzi-Theorem-Example-2.pdf"> 𝑨𝒌𝒓𝒂 -𝑩𝒂𝒛𝒛𝒊 𝑻𝒉𝒆𝒐𝒓𝒆𝒎-𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟐 </h3>
+
+</ul>
+
+<h3>𝑨𝒏𝒅 𝒇𝒓𝒐𝒎 𝑨𝒌𝒓𝒂-𝑩𝒂𝒛𝒛𝒊 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 , 𝑮𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝒛𝒆𝒅 𝑽𝒆𝒓𝒔𝒊𝒐𝒏 𝒐𝒇 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 𝒉𝒂𝒗𝒆 𝒃𝒆𝒆𝒏 𝒆𝒔𝒕𝒂𝒃𝒍𝒊𝒔𝒉𝒆𝒅 .</h3>
+  
+</ul>
+
+
+<h2></h2>
+<h2>𝑰𝑽)𝑪𝒐𝒏𝒕𝒊𝒏𝒖𝒐𝒖𝒔 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 𝒐𝒓 𝑮𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝒛𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎</h2>
+
+  
+</ul>
+
 
 </ul>
 </ul>
