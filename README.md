@@ -1435,8 +1435,90 @@ $(𝒓 − 𝒃)^{𝒅+𝟏}$ 𝒃𝒚 𝒊𝒈𝒏𝒐𝒓𝒊𝒏𝒈 𝒕𝒉
 </ul>
 
 
+
+
+  
+</ul>
+
 <h2></h2>
 <h2>𝑰𝑽)𝑪𝒐𝒏𝒕𝒊𝒏𝒖𝒐𝒖𝒔 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 𝒐𝒓 𝑮𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝒛𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎</h2>
+
+<ul>
+
+<h3>𝑨 𝒈𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝒛𝒆𝒅 𝒗𝒆𝒓𝒔𝒊𝒐𝒏 𝒐𝒇 𝒕𝒉𝒆 𝑨𝒌𝒓𝒂 − 𝑩𝒂𝒛𝒛𝒊 𝒕𝒉𝒆𝒐𝒓𝒆𝒎
+𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒈𝒊𝒗𝒆𝒏 𝒂𝒔 𝒇𝒐𝒍𝒍𝒐𝒘𝒔:</h3>
+
+![Screenshot (866)](https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/assets/38869235/7b135049-c8f1-42b9-8925-ec9c9ab2a625)
+
+
+<h3>𝒂𝒏𝒅 𝒂 ≥ 𝟏, 𝒃 > 𝟏, 𝒏𝟎 ≥ 𝟏, 𝒅 > 𝟎 𝒂𝒏𝒅 𝒇(𝒏) 𝒊𝒔 𝒑𝒐𝒔𝒊𝒕𝒊𝒗𝒆 𝒇𝒐𝒓
+𝒏 > 𝒏𝟎 , 𝒐𝒓</h3>
+
+<h3>𝑳𝒆𝒕 𝒂 > 𝟎 𝒂𝒏𝒅 𝒃 > 𝟏 𝒃𝒆 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕𝒔, 𝒂𝒏𝒅 𝒍𝒆𝒕 𝒏𝒖𝒎𝒃𝒆𝒓𝒔 𝒏 ≥ 𝟏.
+𝑻𝒉𝒆𝒏 𝒕𝒉𝒆 𝒓𝒆𝒄𝒖𝒓𝒓𝒆𝒏𝒄𝒆:</h3>
+
+![Screenshot (867)](https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/assets/38869235/b896e4bf-097e-4790-ba1a-5aef86ba8ea4)
+
+
+<h3>𝑻𝒉𝒆𝒏 𝒕𝒉𝒆 𝒂𝒔𝒚𝒎𝒑𝒕𝒐𝒕𝒊𝒄 𝒃𝒆𝒉𝒂𝒗𝒊𝒐𝒓 𝒐𝒇 𝑻(𝒏) 𝒄𝒂𝒏 𝒃𝒆
+𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒊𝒛𝒆𝒅 𝒂𝒔 𝒇𝒐𝒍𝒍𝒐𝒘𝒔:</h3>
+
+<ul>
+  
+<h3>𝟏. 𝑰𝒇 𝒕𝒉𝒆𝒓𝒆 𝒆𝒙𝒊𝒔𝒕𝒔 𝒂 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕 𝜺 > 𝟎 𝒔𝒖𝒄𝒉 𝒕𝒉𝒂𝒕
+𝒇(𝒏) = 𝑶( $𝒏^{𝒍𝒐𝒈_𝒃^{𝒂−𝜺}}$ ), 𝒕𝒉𝒆𝒏 𝑻(𝒏) = 𝚯( $𝒏^{𝒍𝒐𝒈_𝒃^𝒂}$).</h3>
+
+<h3>𝟐. 𝑰𝒇 𝒕𝒉𝒆𝒓𝒆 𝒆𝒙𝒊𝒔𝒕𝒔 𝒂 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕 𝒌 ≥ 𝟎 𝒔𝒖𝒄𝒉 𝒕𝒉𝒂𝒕
+𝒇(𝒏) = 𝚯( $𝒏^{𝒍𝒐𝒈_𝒃^𝒂}$ $𝒍𝒐𝒈^𝒌$ 𝒏) , 𝒕𝒉𝒆𝒏 𝑻(𝒏) = 𝚯( $𝒏^{𝒍𝒐𝒈_𝒃^𝒂}$ $𝒍𝒐𝒈^{𝒌+1}$ 𝒏 ).</h3>
+
+<h3>𝟑. 𝑰𝒇 𝒕𝒉𝒆𝒓𝒆 𝒆𝒙𝒊𝒔𝒕𝒔 𝒂 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕 𝜺 > 𝟎 𝒔𝒖𝒄𝒉 𝒕𝒉𝒂𝒕
+𝒇(𝒏) = 𝛀( $𝒏^{𝒍𝒐𝒈_𝒃^{𝒂+𝜺}}$ ) , 𝒂𝒏𝒅 𝒊𝒇 𝒇(𝒏) 𝒂𝒅𝒅𝒊𝒕𝒊𝒐𝒏𝒂𝒍𝒍𝒚 𝒔𝒂𝒕𝒊𝒔𝒇𝒊𝒆𝒔 𝒕𝒉𝒆 𝒓𝒆𝒈𝒖𝒍𝒂𝒓𝒊𝒕𝒚 𝒄𝒐𝒏𝒅𝒊𝒕𝒊𝒐𝒏 𝒂𝒇 ( $\frac{𝒏}{𝒃}$ ) ≤ 𝒄𝒇(𝒏) 𝒇𝒐𝒓 𝒔𝒐𝒎𝒆 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕 𝒄 < 𝟏 𝒂𝒏𝒅
+𝒂𝒍𝒍 𝒔𝒖𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕𝒍𝒚 𝒍𝒂𝒓𝒈𝒆 𝒏, 𝒕𝒉𝒆𝒏 𝑻(𝒏) = 𝚯(𝒇(𝒏)).</h3>
+
+<ul>
+
+<h3>→<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.9.Divide-And-Conquer-Continuous%20Master%20Theorem%20OR%20Generalized%20Master%20Theorem%20-Introduction.pdf"> 𝑮𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝒛𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 → 𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏 </a> </h3>
+
+</ul>
+
+</ul>
+
+
+<h2></h2>
+<h2>𝑴𝒂𝒕𝒉𝒆𝒎𝒂𝒕𝒊𝒄𝒂𝒍 𝑷𝒓𝒐𝒐𝒇 𝒐𝒇 𝑪𝒐𝒏𝒕𝒊𝒏𝒖𝒐𝒖𝒔 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 𝒐𝒓 𝑮𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝒛𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎</h2>
+
+<ul>
+
+<h3>𝑨 𝒈𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝒛𝒆𝒅 𝒗𝒆𝒓𝒔𝒊𝒐𝒏 𝒐𝒇 𝒕𝒉𝒆 𝑨𝒌𝒓𝒂 − 𝑩𝒂𝒛𝒛𝒊 𝒕𝒉𝒆𝒐𝒓𝒆𝒎 
+𝒉𝒂𝒔 𝒃𝒆𝒆𝒏 𝒈𝒊𝒗𝒆𝒏 𝒃𝒚 𝑪𝒐𝒓𝒎𝒆𝒏 𝒊𝒏 𝒉𝒊𝒔 𝒃𝒐𝒐𝒌 𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏 𝒕𝒐
+𝑨𝒍𝒈𝒐𝒓𝒊𝒕𝒉𝒎𝒔. 𝑻𝒉𝒆 𝒂𝒅𝒗𝒂𝒏𝒕𝒂𝒈𝒆 𝒐𝒇 𝒕𝒉𝒊𝒔 𝒎𝒐𝒅𝒊𝒇𝒊𝒆𝒅 𝒎𝒂𝒔𝒕𝒆𝒓 𝒕𝒉𝒆𝒐𝒓𝒆𝒎
+𝒊𝒔 𝒕𝒉𝒂𝒕 𝒊𝒕 𝒂𝒗𝒐𝒊𝒅𝒔 𝒕𝒉𝒆 𝒊𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒊𝒐𝒏 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝒊𝒏 𝒕𝒉𝒆 
+𝑨𝒌𝒓𝒂 − 𝑩𝒂𝒛𝒛𝒊 𝒎𝒆𝒕𝒉𝒐𝒅. </h3>
+
+<ul>
+
+<h3> →<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.10.Divide-And-Conquer-Continuous%20Master%20Theorem%20OR%20Generalized%20Master%20Theorem%20-Proof.pdf"> 𝑴𝒂𝒕𝒉𝒆𝒎𝒂𝒕𝒊𝒄𝒂𝒍 𝑷𝒓𝒐𝒐𝒇 𝒐𝒇 𝑮𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝒛𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 </a></h3>
+
+</ul>
+
+<h2></h2>
+<h2>𝑬𝒙𝒂𝒎𝒑𝒍𝒆𝒔 𝑩𝒂𝒔𝒆𝒅 𝑶𝒏  𝑮𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝒛𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎</h2>
+
+<ul>
+
+
+
+<h3>𝟏. 𝑻(𝒏) = 𝟖𝑻 ( $\frac{𝒏}{𝟐}$ ) + $𝒏^𝟐$  →<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.11.Divide-And-Conquer-Continuous%20Master%20Theorem%20OR%20Generalized%20Master%20Theorem%20-Example%201.pdf"> 𝑮𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝒛𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 -𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟏 </h3>
+
+<h3>𝟐. 𝑻(𝒏) = 𝟐𝑻 ( $\frac{𝒏}{𝟐}$ ) + 𝒏  →<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.12.Divide-And-Conquer-Continuous%20Master%20Theorem%20OR%20Generalized%20Master%20Theorem%20-Example%202.pdf"> 𝑮𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝒛𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎-𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟐 </h3>
+
+
+</ul>
+
+
+  
+</ul>
+
 
   
 </ul>
