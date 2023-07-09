@@ -1495,10 +1495,16 @@ $(𝒓 − 𝒃)^{𝒅+𝟏}$ 𝒃𝒚 𝒊𝒈𝒏𝒐𝒓𝒊𝒏𝒈 𝒕𝒉
 𝒊𝒔 𝒕𝒉𝒂𝒕 𝒊𝒕 𝒂𝒗𝒐𝒊𝒅𝒔 𝒕𝒉𝒆 𝒊𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒊𝒐𝒏 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝒊𝒏 𝒕𝒉𝒆 
 𝑨𝒌𝒓𝒂 − 𝑩𝒂𝒛𝒛𝒊 𝒎𝒆𝒕𝒉𝒐𝒅. </h3>
 
+<h3>𝑩𝒆𝒍𝒐𝒘 𝒊𝒔 𝒓𝒆-𝒘𝒓𝒊𝒕𝒕𝒆𝒏 𝒑𝒓𝒐𝒐𝒇 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒃𝒐𝒐𝒌 "𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏 𝒕𝒐
+𝑨𝒍𝒈𝒐𝒓𝒊𝒕𝒉𝒎𝒔" .</h3>
+
 <ul>
 
 <h3> →<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.10.Divide-And-Conquer-Continuous%20Master%20Theorem%20OR%20Generalized%20Master%20Theorem%20-Proof.pdf"> 𝑴𝒂𝒕𝒉𝒆𝒎𝒂𝒕𝒊𝒄𝒂𝒍 𝑷𝒓𝒐𝒐𝒇 𝒐𝒇 𝑮𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝒛𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎 </a></h3>
 
+</ul>
+
+ 
 </ul>
 
 <h2></h2>
@@ -1513,10 +1519,6 @@ $(𝒓 − 𝒃)^{𝒅+𝟏}$ 𝒃𝒚 𝒊𝒈𝒏𝒐𝒓𝒊𝒏𝒈 𝒕𝒉
 <h3>𝟐. 𝑻(𝒏) = 𝟐𝑻 ( $\frac{𝒏}{𝟐}$ ) + 𝒏  →<a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.12.Divide-And-Conquer-Continuous%20Master%20Theorem%20OR%20Generalized%20Master%20Theorem%20-Example%202.pdf"> 𝑮𝒆𝒏𝒆𝒓𝒂𝒍𝒊𝒛𝒆𝒅 𝑴𝒂𝒔𝒕𝒆𝒓 𝑻𝒉𝒆𝒐𝒓𝒆𝒎-𝑬𝒙𝒂𝒎𝒑𝒍𝒆 𝟐 </h3>
 
 
-</ul>
-
-
-  
 </ul>
 
 
