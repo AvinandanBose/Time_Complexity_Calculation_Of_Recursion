@@ -1566,6 +1566,53 @@ $\frac{𝒏}{𝒍𝒐𝒈𝒏}$</h3>
 <h3> <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.14.Transformations.pdf"> 𝑻𝒓𝒂𝒏𝒔𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏→𝑰𝒏 𝑫𝒆𝒕𝒂𝒊𝒍𝒔 </a> </h3> 
 
 </ul>
+
+<h2></h2>
+<h2>𝑽𝑰)𝑨.𝑫𝒐𝒎𝒂𝒊𝒏 𝑻𝒓𝒂𝒏𝒔𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏</h2>
+
+<ul>
+
+<h3>𝑫𝒐𝒎𝒂𝒊𝒏 𝒕𝒓𝒂𝒏𝒔𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 𝒊𝒔 𝒂 𝒕𝒆𝒄𝒉𝒏𝒊𝒒𝒖𝒆 𝒐𝒇 𝒄𝒐𝒏𝒗𝒆𝒓𝒕𝒊𝒏𝒈
+𝒂 𝒓𝒆𝒄𝒖𝒓𝒓𝒆𝒏𝒄𝒆 𝒆𝒒𝒖𝒂𝒕𝒊𝒐𝒏 𝒊𝒏𝒕𝒐 𝒂 𝒇𝒐𝒓𝒎 𝒕𝒉𝒂𝒕 𝒄𝒂𝒏 𝒃𝒆 𝒔𝒐𝒍𝒗𝒆𝒅
+𝒖𝒔𝒊𝒏𝒈 𝒕𝒉𝒆 𝒓𝒆𝒈𝒖𝒍𝒂𝒓 𝒎𝒆𝒕𝒉𝒐𝒅𝒔 . 𝑶𝒏𝒆 𝒄𝒂𝒏 𝒗𝒊𝒆𝒘 𝒅𝒐𝒎𝒂𝒊𝒏
+𝒕𝒓𝒂𝒏𝒔𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 𝒂𝒔 𝒂 𝒕𝒆𝒄𝒉𝒏𝒊𝒒𝒖𝒆 𝒐𝒇 𝒄𝒐𝒏𝒗𝒆𝒓𝒕𝒊𝒏𝒈 𝒂
+𝒑𝒔𝒆𝒖𝒅𝒐 − 𝒏𝒐𝒏𝒍𝒊𝒏𝒆𝒂𝒓 𝒓𝒆𝒄𝒖𝒓𝒓𝒆𝒏𝒄𝒆 𝒊𝒏𝒕𝒐 𝒂 𝒇𝒂𝒎𝒊𝒍𝒊𝒂𝒓
+𝒇𝒐𝒓𝒎.</h3>
+
+<h3>𝑻𝒉𝒆 𝒑𝒓𝒐𝒄𝒆𝒅𝒖𝒓𝒆 𝒇𝒐𝒓 𝒅𝒐𝒎𝒂𝒊𝒏 𝒕𝒓𝒂𝒏𝒔𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏(𝒐𝒓
+𝒄𝒉𝒂𝒏𝒈𝒆 𝒐𝒇 𝒗𝒂𝒓𝒊𝒂𝒃𝒍𝒆) 𝒊𝒏𝒄𝒍𝒖𝒅𝒆𝒔 𝒕𝒉𝒆 𝒇𝒐𝒍𝒍𝒐𝒘𝒊𝒏𝒈
+𝒔𝒕𝒆𝒑𝒔:</h3>
+
+<ul>
+  
+<h3>𝟏. 𝑪𝒐𝒏𝒗𝒆𝒓𝒕 𝒕𝒉𝒆 𝒖𝒏𝒇𝒂𝒎𝒊𝒍𝒊𝒂𝒓 𝒓𝒆𝒄𝒖𝒓𝒓𝒆𝒏𝒄𝒆 𝒇𝒐𝒓𝒎 𝒐𝒇 𝑻(𝒏) 𝒖𝒔𝒊𝒏𝒈
+𝒂𝒍𝒈𝒆𝒃𝒓𝒂𝒊𝒄 𝒎𝒂𝒏𝒊𝒑𝒖𝒍𝒂𝒕𝒊𝒐𝒏𝒔.</h3>
+<h3>𝟐. 𝑺𝒐𝒍𝒗𝒆 𝒕𝒉𝒆 𝒓𝒆𝒄𝒖𝒓𝒓𝒆𝒏𝒄𝒆 𝒆𝒒𝒖𝒂𝒕𝒊𝒐𝒏.</h3>
+<h3>𝟑.𝑹𝒆𝒄𝒐𝒏𝒗𝒆𝒓𝒕 𝒕𝒉𝒊𝒔 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏 𝒃𝒂𝒄𝒌 𝒊𝒏𝒕𝒐 𝒕𝒉𝒆 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏
+𝒐𝒇 𝒕𝒉𝒆 𝒐𝒓𝒊𝒈𝒊𝒏𝒂𝒍 𝒆𝒒𝒖𝒂𝒕𝒊𝒐𝒏 𝒃𝒚 𝒓𝒆𝒗𝒆𝒓𝒔𝒆 𝒕𝒓𝒂𝒏𝒔𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏.</h3>
+
+</ul>
+
+<ul>
+  
+  <h3> → <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.14.A.Domain%20Transformation.pdf">𝑨.𝑫𝒐𝒎𝒂𝒊𝒏 𝑻𝒓𝒂𝒏𝒔𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏→𝑰𝒏 𝑫𝒆𝒕𝒂𝒊𝒍𝒔 </h3>
+    
+</ul>
+
+<h2></h2>
+<h2>𝑫𝒐𝒎𝒂𝒊𝒏 𝑻𝒓𝒂𝒏𝒔𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏-𝑬𝒙𝒂𝒎𝒑𝒍𝒆𝒔</h2>
+
+<ul>
+
+<h3> 𝟏. 𝑻(𝒏) = 𝟕𝑻 (⌊ $\frac{𝐧}{𝟐}$ ⌋)  <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.14.A.Domain%20Transformation-Example-1.pdf"> 𝑬𝒙𝒂𝒎𝒑𝒍𝒆-𝟏 </h3>
+
+<h3> 𝟐. 𝑻(𝒏) = 𝟐𝑻(√𝒏 ) <a href="https://github.com/AvinandanBose/Time_Complexity_Calculation_Of_Recursion/blob/main/B.B.14.B.Domain%20Transformation-Example%202.pdf"> 𝑬𝒙𝒂𝒎𝒑𝒍𝒆-𝟐 </h3>
+
+</ul>
+
+
+</ul>
+
   
 </ul>
 
